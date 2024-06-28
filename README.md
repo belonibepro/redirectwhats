@@ -1,2 +1,2 @@
-# RedirectWhats
-RedirectWhats
+# redirectwhats
+redirectwhats
